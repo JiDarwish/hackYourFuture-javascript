@@ -12,5 +12,5 @@ echo "cat" >> commands.txt
 echo "ls" >> commands.txt
 echo "pwd" >> commands.txt
 
-grep -v -h pets.txt commands.txt >> lovelyCommands.txt
-grep -v -h commands.txt pets.txt >> loveltCommands.txt
+grep -v -f pets.txt commands.txt >> lovelyCommands.txt
+grep -v -f commands.txt pets.txt >> loveltCommands.txt
