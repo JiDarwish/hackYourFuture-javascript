@@ -1,1 +1,1 @@
-# hackYourFuture-javascript
+# Javascript first module
