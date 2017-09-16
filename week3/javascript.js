@@ -1,3 +1,5 @@
+//  			4 & 5
+
 let header = document.createElement("h1");
 let headerText = document.createTextNode("My selection of books");
 header.appendChild(headerText);
@@ -84,6 +86,9 @@ function generateListWithObj(){
 	}
 }
 generateListWithObj();
+
+
+//			7
 
 
 let images = {
